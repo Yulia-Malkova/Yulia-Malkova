@@ -17,15 +17,20 @@
 ### Languages and tools:
 <p align="left">
 
-<img width="5%" title="Java" src="media/icons/Java.svg">
-<img width="5%" title="Selenoid" src="media/icons/Selenoid.svg">
-<img width="5%" title="Selenide" src="media/icons/Selenide.svg">
-<img width="5%" title="Gradle" src="media/icons/Gradle.svg">
-<img width="5%" title="Junit5" src="media/icons/Junit5.svg">
-<img width="5%" title="Allure Report" src="media/icons/Allure.svg">
-<img width="5%" title="Allure TestOps" src="media/icons/Allure_TO.svg">
-<img width="5%" title="Jenkins" src="media/icons/Jenkins.svg">
-<img width="5%" title="Jira" src="media/icons/Jira.svg">
+<img width="5%" title="Java" src="media/Java.svg">
+<img width="5%" title="Intelij_IDEA" src="media/Intelij_IDEA.svg">
+<img width="5%" title="Selenide" src="media/Selenide.svg">
+<img width="5%" title="Selenoid" src="media/Selenoid.svg">
+<img width="5%" title="Gradle" src="media/Gradle.svg">
+<img width="5%" title="Junit5" src="media/JUnit5.svg">
+<img width="5%" title="Jenkins" src="media/Jenkins.svg">
+<img width="5%" title="Allure Report" src="media/Allure_Report.svg">
+<img width="5%" title="Allure TestOps" src="media/AllureTestOps.svg">
+<img width="5%" title="Jira" src="media/Jira.svg">
+<img width="5%" title="Swagger" src="media/swagger.svg">
+<img width="5%" title="Postman" src="media/postman-icon.svg">
+
+
 
 </p>
 
