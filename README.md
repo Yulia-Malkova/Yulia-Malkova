@@ -33,7 +33,17 @@
 
 ## :computer: My projects
 
+### :pushpin: Проект по автоматизации тестовых сценариев для сайта компании [Wildberries](https://www.wildberries.ru/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yulia-Malkova&repo=wb_project)](https://github.com/Yulia-Malkova/wb_project)
+
+### :pushpin: Проект по автоматизации API методов для сайта магазина [Республика](https://www.respublica.ru/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yulia-Malkova&repo=respublica-project)](https://github.com/Yulia-Malkova/respublica-project)
+
+### :pushpin: Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yulia-Malkova&repo=wikipedia-mobile_project)](https://github.com/Yulia-Malkova/wikipedia-mobile_project)
 
 ### My stats:
 
