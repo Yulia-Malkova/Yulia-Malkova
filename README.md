@@ -3,7 +3,6 @@
 
 - QA engineer at <a href="https://innopolis.university/en/center-oil/"> Innopolis, Center for Oil and Gas Technology </a></h1>
 - Sphere of interest: Test Automation using Java/Selenide
-- I speak Russian (native), French(C1), English (B2), Spanish(B1)
 
 ### How to reach me:
   <a href="https://t.me/Mlle_Julie">
@@ -17,20 +16,33 @@
 ### Languages and tools:
 <p align="left">
 
-<img width="5%" title="Java" src="media/Java.svg">
-<img width="5%" title="Intelij_IDEA" src="media/Intelij_IDEA.svg">
-<img width="5%" title="Selenide" src="media/Selenide.svg">
-<img width="5%" title="Selenoid" src="media/Selenoid.svg">
-<img width="5%" title="Gradle" src="media/Gradle.svg">
-<img width="5%" title="Junit5" src="media/JUnit5.svg">
-<img width="5%" title="Jenkins" src="media/Jenkins.svg">
-<img width="5%" title="Allure Report" src="media/Allure_Report.svg">
-<img width="5%" title="Allure TestOps" src="media/AllureTestOps.svg">
-<img width="5%" title="Jira" src="media/Jira.svg">
-<img width="5%" title="Swagger" src="media/swagger.svg">
-<img width="5%" title="Postman" src="media/postman-icon.svg">
-
-
-
+<a href="https://www.java.com/"><img width="5%" title="Java" src="media/Java.svg">
+<a href="https://www.jetbrains.com/idea/"><img width="5%" title="Intelij_IDEA" src="media/Intelij_IDEA.svg">
+<a href="https://www.selenide.org/"><img width="5%" title="Selenide" src="media/Selenide.svg">
+<a href="https://www.aerokube.com/selenoid/"><img width="5%" title="Selenoid" src="media/Selenoid.svg">
+<a href="https://www.gradle.org/"><img width="5%" title="Gradle" src="media/Gradle.svg">
+<a href="https://www.junit.org/junit5/"><img width="5%" title="Junit5" src="media/JUnit5.svg">
+<a href="https://www.jenkins.io/"><img width="5%" title="Jenkins" src="media/Jenkins.svg">
+<a href="https://github.com/allure-framework"><img width="5%" title="Allure Report" src="media/Allure_Report.svg">
+<a href="https://qameta.io/"><img width="5%" title="Allure TestOps" src="media/AllureTestOps.svg">
+<a href="https://www.atlassian.com/software/jira"><img width="5%" title="Jira" src="media/Jira.svg">
 </p>
 
+## :computer: My projects
+
+### :pushpin: Проект по автоматизации тестовых сценариев для сайта компании [Wildberries](https://www.wildberries.ru/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yulia-Malkova&repo=wb_project)](https://github.com/Yulia-Malkova/wb_project)
+
+### :pushpin: Проект по автоматизации API методов для сайта магазина [Республика](https://www.respublica.ru/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yulia-Malkova&repo=respublica-project)](https://github.com/Yulia-Malkova/respublica-project)
+
+### :pushpin: Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yulia-Malkova&repo=wikipedia-mobile_project)](https://github.com/Yulia-Malkova/wikipedia-mobile_project)
+
+### My stats:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yulia-Malkova&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yulia-Malkova&theme=solarized_dark)
