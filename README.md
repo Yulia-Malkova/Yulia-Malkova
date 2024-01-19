@@ -44,8 +44,3 @@
 ### :pushpin: Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yulia-Malkova&repo=wikipedia-mobile_project)](https://github.com/Yulia-Malkova/wikipedia-mobile_project)
-
-### My stats:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yulia-Malkova&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yulia-Malkova&theme=solarized_dark)
